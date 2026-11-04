@@ -1,6 +1,5 @@
 #EXTM3U url-tvg="https://linxei.biz.id/epg/kai-epg.xml"
-#EXT-X-APP APTV
-#EXT-X-APTV-TYPE local
+
 
 #EXTINF:-1 tvg-id="gd01" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="Tokyo",NHK G HD
 https://ri.shinori.my.id/pxx.php?shk_cid=hdgd01
