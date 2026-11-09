@@ -1,3 +1,6 @@
+#EXTM3U url-tvg="https://linxei.biz.id/epg/kai-epg.xml"
+
+
 #EXTINF:-1 tvg-id="gd05" tvg-logo="https://p.sankuria.sbs/icons/icon_4.png" group-title="Tokyo | EU 01",Fuji TV
 https://0i4neux01.charandom.blog/stream/jp/fuji_tv/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.TSMbaPKzAbMRALqZErdxGJirvF9c1DpITxnetyHUrrE2rydSVYLrFQ.8kKNQtvbIsKr4JP-.ElB3-IA3rxjtmvGt7OxuV4hWxl-NQe9YDaw-6x3xLTpCAGf5CmAm2P9tOIzB8GgB5Er0ICpFpOXHJ6uZ-BGHnK9TyeQfSKl2oQ3JF09sa4j4bw7m.H-S18_lYRZbOmUXLQgnojA&mode=hls
 #EXTINF:-1 tvg-id="gd02" tvg-logo="https://p.sankuria.sbs/icons/icon_1.png" group-title="Tokyo | EU 01",NHK E
