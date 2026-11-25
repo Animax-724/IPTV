@@ -1,12 +1,13 @@
 #EXTM3U url-tvg="https://linxei.biz.id/epg/kai-epg.xml"
 
-
 #EXTINF:-1 tvg-id="gd05" tvg-logo="https://p.sankuria.sbs/icons/icon_4.png" group-title="Tokyo | EU 01",Fuji TV
 https://0i4neux01.charandom.blog/stream/jp/fuji_tv/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.TSMbaPKzAbMRALqZErdxGJirvF9c1DpITxnetyHUrrE2rydSVYLrFQ.8kKNQtvbIsKr4JP-.ElB3-IA3rxjtmvGt7OxuV4hWxl-NQe9YDaw-6x3xLTpCAGf5CmAm2P9tOIzB8GgB5Er0ICpFpOXHJ6uZ-BGHnK9TyeQfSKl2oQ3JF09sa4j4bw7m.H-S18_lYRZbOmUXLQgnojA&mode=hls
 #EXTINF:-1 tvg-id="gd02" tvg-logo="https://p.sankuria.sbs/icons/icon_1.png" group-title="Tokyo | EU 01",NHK E
 https://0i4neux01.charandom.blog/stream/jp/nhk_e/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.TSMbaPKzAbMRALqZErdxGJirvF9c1DpITxnetyHUrrE2rydSVYLrFQ.8kKNQtvbIsKr4JP-.ElB3-IA3rxjtmvGt7OxuV4hWxl-NQe9YDaw-6x3xLTpCAGf5CmAm2P9tOIzB8GgB5Er0ICpFpOXHJ6uZ-BGHnK9TyeQfSKl2oQ3JF09sa4j4bw7m.H-S18_lYRZbOmUXLQgnojA&mode=hls
-#EXTINF:-1 tvg-id="gd01" tvg-logo="https://p.sankuria.sbs/icons/icon_0.png" group-title="Tokyo | EU 01",NHK G
+#EXTINF:-1 tvg-id="nhk_g_tky" tvg-logo="https://p.sankuria.sbs/icons/icon_0.png" group-title="Tokyo | EU 01",NHK G
 https://0i4neux01.charandom.blog/stream/jp/nhk_g/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.TSMbaPKzAbMRALqZErdxGJirvF9c1DpITxnetyHUrrE2rydSVYLrFQ.8kKNQtvbIsKr4JP-.ElB3-IA3rxjtmvGt7OxuV4hWxl-NQe9YDaw-6x3xLTpCAGf5CmAm2P9tOIzB8GgB5Er0ICpFpOXHJ6uZ-BGHnK9TyeQfSKl2oQ3JF09sa4j4bw7m.H-S18_lYRZbOmUXLQgnojA&mode=hls
+#EXTINF:-1 tvg-id="nhk_g_sub" tvg-logo="https://p.sankuria.sbs/icons/icon_0.png" group-title="Tokyo | EU 01",NHK G SUB
+https://0i4neux01.charandom.blog/stream/jp/nhk_g_sub/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.TSMbaPKzAbMRALqZErdxGJirvF9c1DpITxnetyHUrrE2rydSVYLrFQ.8kKNQtvbIsKr4JP-.ElB3-IA3rxjtmvGt7OxuV4hWxl-NQe9YDaw-6x3xLTpCAGf5CmAm2P9tOIzB8GgB5Er0ICpFpOXHJ6uZ-BGHnK9TyeQfSKl2oQ3JF09sa4j4bw7m.H-S18_lYRZbOmUXLQgnojA&mode=hls
 #EXTINF:-1 tvg-id="gd03" tvg-logo="https://p.sankuria.sbs/icons/icon_2.png" group-title="Tokyo | EU 01",NTV
 https://0i4neux01.charandom.blog/stream/jp/ntv/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.TSMbaPKzAbMRALqZErdxGJirvF9c1DpITxnetyHUrrE2rydSVYLrFQ.8kKNQtvbIsKr4JP-.ElB3-IA3rxjtmvGt7OxuV4hWxl-NQe9YDaw-6x3xLTpCAGf5CmAm2P9tOIzB8GgB5Er0ICpFpOXHJ6uZ-BGHnK9TyeQfSKl2oQ3JF09sa4j4bw7m.H-S18_lYRZbOmUXLQgnojA&mode=hls
 #EXTINF:-1 tvg-id="gd04" tvg-logo="https://p.sankuria.sbs/icons/icon_3.png" group-title="Tokyo | EU 01",TBS
@@ -27,7 +28,7 @@ https://0i4neux01.charandom.blog/stream/jp/kbs/stream-output.m3u8?ac_tk=eyJhbGci
 https://0i4neux01.charandom.blog/stream/jp/kansai_tv/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.TSMbaPKzAbMRALqZErdxGJirvF9c1DpITxnetyHUrrE2rydSVYLrFQ.8kKNQtvbIsKr4JP-.ElB3-IA3rxjtmvGt7OxuV4hWxl-NQe9YDaw-6x3xLTpCAGf5CmAm2P9tOIzB8GgB5Er0ICpFpOXHJ6uZ-BGHnK9TyeQfSKl2oQ3JF09sa4j4bw7m.H-S18_lYRZbOmUXLQgnojA&mode=hls
 #EXTINF:-1 tvg-id="gx01" tvg-logo="https://p.sankuria.sbs/icons/icon_9.png" group-title="Kansai | EU 01",MBS
 https://0i4neux01.charandom.blog/stream/jp/mbs/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.TSMbaPKzAbMRALqZErdxGJirvF9c1DpITxnetyHUrrE2rydSVYLrFQ.8kKNQtvbIsKr4JP-.ElB3-IA3rxjtmvGt7OxuV4hWxl-NQe9YDaw-6x3xLTpCAGf5CmAm2P9tOIzB8GgB5Er0ICpFpOXHJ6uZ-BGHnK9TyeQfSKl2oQ3JF09sa4j4bw7m.H-S18_lYRZbOmUXLQgnojA&mode=hls
-#EXTINF:-1 tvg-id="gx06" tvg-logo="https://p.sankuria.sbs/" group-title="Kansai | EU 01",NHK G Osaka
+#EXTINF:-1 tvg-id="gx06" tvg-logo="https://p.sankuria.sbs/icons/icon_0.png" group-title="Kansai | EU 01",NHK G Osaka
 https://0i4neux01.charandom.blog/stream/jp/nhk_g_osaka/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.TSMbaPKzAbMRALqZErdxGJirvF9c1DpITxnetyHUrrE2rydSVYLrFQ.8kKNQtvbIsKr4JP-.ElB3-IA3rxjtmvGt7OxuV4hWxl-NQe9YDaw-6x3xLTpCAGf5CmAm2P9tOIzB8GgB5Er0ICpFpOXHJ6uZ-BGHnK9TyeQfSKl2oQ3JF09sa4j4bw7m.H-S18_lYRZbOmUXLQgnojA&mode=hls
 #EXTINF:-1 tvg-id="gx07" tvg-logo="https://p.sankuria.sbs/icons/icon_sun.png" group-title="Kansai | EU 01",SUN
 https://0i4neux01.charandom.blog/stream/jp/sun/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.TSMbaPKzAbMRALqZErdxGJirvF9c1DpITxnetyHUrrE2rydSVYLrFQ.8kKNQtvbIsKr4JP-.ElB3-IA3rxjtmvGt7OxuV4hWxl-NQe9YDaw-6x3xLTpCAGf5CmAm2P9tOIzB8GgB5Er0ICpFpOXHJ6uZ-BGHnK9TyeQfSKl2oQ3JF09sa4j4bw7m.H-S18_lYRZbOmUXLQgnojA&mode=hls
@@ -167,7 +168,7 @@ https://0i4neux01.charandom.blog/stream/jp/national_geographic_japan/stream-outp
 https://0i4neux01.charandom.blog/stream/jp/nittele_g+/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.TSMbaPKzAbMRALqZErdxGJirvF9c1DpITxnetyHUrrE2rydSVYLrFQ.8kKNQtvbIsKr4JP-.ElB3-IA3rxjtmvGt7OxuV4hWxl-NQe9YDaw-6x3xLTpCAGf5CmAm2P9tOIzB8GgB5Er0ICpFpOXHJ6uZ-BGHnK9TyeQfSKl2oQ3JF09sa4j4bw7m.H-S18_lYRZbOmUXLQgnojA&mode=hls
 #EXTINF:-1 tvg-id="nittele_plus" tvg-logo="https://p.sankuria.sbs/icons/icon_68.png" group-title="CS | EU 01",Nittele Plus
 https://0i4neux01.charandom.blog/stream/jp/nittele_plus/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.TSMbaPKzAbMRALqZErdxGJirvF9c1DpITxnetyHUrrE2rydSVYLrFQ.8kKNQtvbIsKr4JP-.ElB3-IA3rxjtmvGt7OxuV4hWxl-NQe9YDaw-6x3xLTpCAGf5CmAm2P9tOIzB8GgB5Er0ICpFpOXHJ6uZ-BGHnK9TyeQfSKl2oQ3JF09sa4j4bw7m.H-S18_lYRZbOmUXLQgnojA&mode=hls
-#EXTINF:-1 tvg-id="nouve_para" tvg-logo="https://p.sankuria.sbs/" group-title="CS | EU 01",Nouvelle Paradise
+#EXTINF:-1 tvg-id="nouve_para" tvg-logo="https://p.sankuria.sbs/icons/icon_np.gif" group-title="CS | EU 01",Nouvelle Paradise
 https://0i4neux01.charandom.blog/stream/jp/nouvelle_paradise/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.TSMbaPKzAbMRALqZErdxGJirvF9c1DpITxnetyHUrrE2rydSVYLrFQ.8kKNQtvbIsKr4JP-.ElB3-IA3rxjtmvGt7OxuV4hWxl-NQe9YDaw-6x3xLTpCAGf5CmAm2P9tOIzB8GgB5Er0ICpFpOXHJ6uZ-BGHnK9TyeQfSKl2oQ3JF09sa4j4bw7m.H-S18_lYRZbOmUXLQgnojA&mode=hls
 #EXTINF:-1 tvg-id="pigoo_nsfw" tvg-logo="https://p.sankuria.sbs/icons/icon_94.png" group-title="CS | EU 01",Pigoo NSFW
 https://0i4neux01.charandom.blog/stream/jp/pigoo_nsfw/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.TSMbaPKzAbMRALqZErdxGJirvF9c1DpITxnetyHUrrE2rydSVYLrFQ.8kKNQtvbIsKr4JP-.ElB3-IA3rxjtmvGt7OxuV4hWxl-NQe9YDaw-6x3xLTpCAGf5CmAm2P9tOIzB8GgB5Er0ICpFpOXHJ6uZ-BGHnK9TyeQfSKl2oQ3JF09sa4j4bw7m.H-S18_lYRZbOmUXLQgnojA&mode=hls
